@@ -43,7 +43,7 @@ li,
 .section-title {
     list-style: none;
 }
-input {
+button, input {
     outline: none;
 }
 button {
